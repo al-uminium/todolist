@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/al-uminium.github.io/todolist/static/css/main.3b64d00c.chunk.css",
+    "main.js": "/al-uminium.github.io/todolist/static/js/main.b8df1be2.chunk.js",
+    "main.js.map": "/al-uminium.github.io/todolist/static/js/main.b8df1be2.chunk.js.map",
+    "runtime-main.js": "/al-uminium.github.io/todolist/static/js/runtime-main.1d26011f.js",
+    "runtime-main.js.map": "/al-uminium.github.io/todolist/static/js/runtime-main.1d26011f.js.map",
+    "static/js/2.432a5b8c.chunk.js": "/al-uminium.github.io/todolist/static/js/2.432a5b8c.chunk.js",
+    "static/js/2.432a5b8c.chunk.js.map": "/al-uminium.github.io/todolist/static/js/2.432a5b8c.chunk.js.map",
+    "static/js/3.f11e4b40.chunk.js": "/al-uminium.github.io/todolist/static/js/3.f11e4b40.chunk.js",
+    "static/js/3.f11e4b40.chunk.js.map": "/al-uminium.github.io/todolist/static/js/3.f11e4b40.chunk.js.map",
+    "index.html": "/al-uminium.github.io/todolist/index.html",
+    "static/css/main.3b64d00c.chunk.css.map": "/al-uminium.github.io/todolist/static/css/main.3b64d00c.chunk.css.map",
+    "static/js/2.432a5b8c.chunk.js.LICENSE.txt": "/al-uminium.github.io/todolist/static/js/2.432a5b8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d26011f.js",
+    "static/js/2.432a5b8c.chunk.js",
+    "static/css/main.3b64d00c.chunk.css",
+    "static/js/main.b8df1be2.chunk.js"
+  ]
+}
